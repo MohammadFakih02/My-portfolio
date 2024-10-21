@@ -1,0 +1,71 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    background-color: rgb(222, 184, 135);
+    font-family: "Times New Roman", Times, serif;
+    padding: 0px;
+    padding-bottom: 200px;
+    margin: 0px;
+  }
+  div {
+    margin-left: 10px;
+  }
+  header {
+    background-color: rgb(228, 217, 195);
+    padding-top: 10px;
+    padding-left: 10px;
+    border: 0px;
+    border-bottom: 5px;
+    border-style: solid;
+  }
+  .profile-div {
+    float: left;
+    margin-top: 10px;
+    margin-right: 30px;
+    padding: 10px;
+    background-color: rgb(170, 80, 66);
+    height: auto;
+    width: fit-content;
+  }
+  img {
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+  }
+  .profile-text {
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    height: 300px;
+  }
+  .profile-desc {
+    font-size: 24px;
+    margin-top: 50px;
+    width: 800px;
+  }
+  .achievements {
+    padding-left: 10px;
+    font-size: 24px;
+  }
+  .super-number {
+    font-size: 40px;
+  }
+  .my-skills {
+    padding-left: 10px;
+  }
+  footer {
+    background-color: rgb(228, 217, 195);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    border: 0px;
+    border-top: 5px;
+    border-style: solid;
+  }
+  li {
+    font-size: 20px;
+  }
